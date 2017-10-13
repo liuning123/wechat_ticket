@@ -41,11 +41,11 @@ def set_data():
     # 需要修改definition的值
     obj = {"definition": "58f42de0c4ea760fbc90570c", "type": "title"}
     # 设置姓名，需要修改definition和value的值
-    name = {"definition": "58f42eedb3e56486ea000002", "type": "text", "value": "刘宁", "isNumber": "false"}
+    name = {"definition": "58f42eedb3e56486ea000002", "type": "text", "value": "张三", "isNumber": "false"}
     # 设置学号，需要修改definition和value的值
-    card = {"definition": "58f42eeeb3e56486ea000003", "type": "text", "value": "17111016", "isNumber": "true"}
+    card = {"definition": "58f42eeeb3e56486ea000003", "type": "text", "value": "*******", "isNumber": "true"}
     # 设置电话号码，需要修改definition和value的值
-    phone = {"definition": "593df9dac442a7291a000005", "type": "text", "value": "18813110992", "isNumber": "true"}
+    phone = {"definition": "593df9dac442a7291a000005", "type": "text", "value": "******", "isNumber": "true"}
     # 设置请求的url，修改最后的一长串数字
     url = 'https://u9hb4f.fanqier.com/api/f/59c9b5c95fa7264dea1f55b4'
     # 需要修改formId的值
