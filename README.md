@@ -19,11 +19,11 @@ python2.7 + requests。
 
 7.在data.items[0]中，找到_id键的值，并复制到程序中obj对象中的definition的值。
 
-8.在data.items[1]中，查看lable值是否为“姓名”，是的话，把_id键的值赋值给name的definition，并且修改value值为你的名字。
+8.在data.items[1]中，查看lable值是否为“姓名”，是的话，把_id键的值赋值给程序中name对象的definition，并且修改value值为你的名字。
 
-9.在data.items[2]中，查看lable值是否为“学号”，是的话，把_id键的值赋值给card的definition，并且修改value值为你的学号。
+9.在data.items[2]中，查看lable值是否为“学号”，是的话，把_id键的值赋值给程序中card对象的definition，并且修改value值为你的学号。
 
-10.在data.items[3]中，查看lable值是否为“手机”，是的话，同样把_id键的值赋值给phone的definition，并且修改value值为你的手机号。
+10.在data.items[3]中，查看lable值是否为“手机”，是的话，同样把_id键的值赋值给程序中phone对象的definition，并且修改value值为你的手机号。
 
 11.保存程序。
 
