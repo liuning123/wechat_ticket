@@ -5,11 +5,11 @@
 python2.7 + requests。
 
 使用说明：
-1.点击阅读原文后，获取url网址。例如：https://u9hb4f.fanqier.com/f/xtz4fk；
+1.点击阅读原文后，获取url网址。例如：https://u9hb4f.fanqier.com/f/xtz4fk
 
 2.在Chorme或者火狐浏览浏览器中打开这个网址；
 
-3.在地址栏中添加一个字段‘/readonly’，形如：https://u9hb4f.fanqier.com/f/xtz4fk/readonly，摁下回车键；
+3.在地址栏中添加一个字段‘/readonly’，形如：https://u9hb4f.fanqier.com/f/xtz4fk/readonly  摁下回车键；
 
 4.打开调试工具（摁F12），刷新页面。在Network（火狐的话是网络标签）标签下，找到xtz4fk?force=true，并点击查看响应。
 
