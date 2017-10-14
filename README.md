@@ -5,6 +5,7 @@
 python2.7 + requests。
 
 使用说明：
+
 1.点击阅读原文后，获取url网址。例如：https://u9hb4f.fanqier.com/f/xtz4fk
 
 2.在Chorme或者火狐浏览浏览器中打开这个网址；
@@ -29,7 +30,7 @@ python2.7 + requests。
 
 12.运行程序。python wechat_finallyV2.py。然后输入数字1就可以开始刷票了。
 
-注意：
+# 注意：
 
 程序默认是1秒提交一次。
 
